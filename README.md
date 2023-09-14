@@ -12,8 +12,8 @@ To run the experiment:
 2. Open *tap_tests.pd*, followed by running *tap_tests.py*.
 3. Test data is saved in tap-to-drums/results, subjects must manually save the first test.
 
-![Test 1: Tap Consistency](https://github.com/peter-clark/tap-to-drums/tree/main/formatting/test_tap-consistency.png)
-![Test 2: Tap Rhythm](https://github.com/peter-clark/tap-to-drums/tree/main/formatting/test_tap-rhythm.png)
+![Test 1: Tap Consistency](https://github.com/peter-clark/tap-to-drums/blob/main/formatting/test_tap-consistency.png)
+![Test 2: Tap Rhythm](https://github.com/peter-clark/tap-to-drums/blob/main/formatting/test_tap-rhythm.png)
 
 
 To see results:
