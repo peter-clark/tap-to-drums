@@ -7,6 +7,9 @@ In this paper, we explore the literature surrounding rhythm perception to develo
 
 **Keywords**: rhythm, rhythm perception, rhythm similarity, tapping, rhythm space
 
+![Click here to read.](https://zenodo.org/record/8381068)
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8381068.svg)](https://doi.org/10.5281/zenodo.8381068)
+
 To run the experiment:
 1. Connect drum pad and headphones to computer. Start PureData and change Audio Output and MIDI input to respective equipment.
 2. Open *tap_tests.pd*, followed by running *tap_tests.py*.
