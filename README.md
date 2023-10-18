@@ -6,9 +6,7 @@ This repoistory contains the code used and data collected for the *Tap to Drums:
 In this paper, we explore the literature surrounding rhythm perception to develop algorithms that extract a monophonic rhythm from a polyphonic drum pattern. We develop machine learning models for those algorithms to predict the pattern’s location in a polyphonic similarity based 2-D latent rhythm space. Following that we have 25 subjects tap along to polyphonic drum patterns to explore the behaviors of reproducing complex rhythms. The model was able to reasonably predict the location of a monophonic rhythm in the rhythm space (MAE=0.039, SD=0.057). Subjects tapped more accurately to an intended velocity as they became more experienced with the system. The model failed to predict the location of the subject-tapped monophonic rhythms (MAE=0.4580, SD=0.076), highlighting the need for a more thorough subject-rated investigation into refining a tap->polyphonic drums pipeline.
 
 **Keywords**: rhythm, rhythm perception, rhythm similarity, tapping, rhythm space
-
-![Click here to read.](https://zenodo.org/record/8381068)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8381068.svg)](https://doi.org/10.5281/zenodo.8381068)
+Read Here:  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8381068.svg)](https://doi.org/10.5281/zenodo.8381068)
 
 To run the experiment:
 1. Connect drum pad and headphones to computer. Start PureData and change Audio Output and MIDI input to respective equipment.
